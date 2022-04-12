@@ -1,0 +1,52 @@
+.blog-header {
+  border-bottom: 1px solid #000000;
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+#logo {
+  font-family: "Comforter", cursive;
+  font-size: 2.25rem;
+  font-weight: 700;
+}
+
+.sub {
+  color: orange;
+}
+
+.container {
+  font-family: "Roboto Mono", monospace;
+  width: 80%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img {
+  width: 15rem;
+  height: 15rem;
+}
+
+#img2 {
+  width: 8rem;
+  height: 8rem;
+}
+
+#brow {
+  margin-left: 1px;
+}
+
+.hv {
+
+  border-radius: 25px;
+}
+
+.hv:hover {
+  color: black;
+  background-color: grey;
+  transition: 1s;
+}
